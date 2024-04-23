@@ -1,0 +1,6 @@
+{
+"full_name": "Professor James Moriarty",
+"title": "A Treatise on the Binomial Theorem",
+"project_slug": "{{ cookiecutter.title.replace(' ', '').replace('-', '') }}",
+"bib_file": "citations.bib"
+}

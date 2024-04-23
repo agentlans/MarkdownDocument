@@ -1,0 +1,19 @@
+
+@misc{nyt,
+	title = {The {New} {York} {Times} - {Breaking} {News}, {US} {News}, {World} {News} and {Videos}},
+	url = {https://www.nytimes.com},
+	abstract = {Live news, investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S. and international news, politics, business, technology, science, health, arts, sports and more.},
+	language = {en},
+	urldate = {2024-04-23},
+	month = apr,
+	year = {2024},
+}
+
+@misc{cnn,
+	title = {Breaking {News}, {Latest} {News} and {Videos}},
+	url = {https://www.cnn.com},
+	abstract = {View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.},
+	language = {en},
+	urldate = {2024-04-23},
+	journal = {CNN},
+}
